@@ -57,4 +57,10 @@ Data de Nascimento: 22/07/1999
 Objetivo na área de TI: trabalhar todos os dias com programacao e resolver problemas
 email: rafaelgalvaolm.dev@gmail.com
 --------------------------------------------------------------------------------------------------
-
+Nome: Lívia 
+Sobrenome: da Rocha Lima
+Celular: (83)999825868
+Data de Nascimento: 06/11/1980
+Objetivo na área de TI: Trabalhar na área de TI e ser reconhecida profissionalmente
+email: liv.rocha@outlook.com
+--------------------------------------------------------------------------------------------------
