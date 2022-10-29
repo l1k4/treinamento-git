@@ -1,0 +1,76 @@
+-----------------------------------------------SMN-----------------------------------------------
+Lista de Estágiarios:
+
+Nome: Gustavo
+Sobrenome: Barbosa
+Celular: (83) 9 9676-5975
+Data de Nascimento: 05/05/2001
+Objetivo na área de TI: CODARRRRRRRRRR
+email: guxttavo.dev@gmail.com
+--------------------------------------------------------------------------------------------------
+Nome: Guilherme
+Sobrenome: Neves
+Celular: (83) 9 98612988
+Data de Nascimento: 20/03/2002
+Objetivo na área de TI: ser um analista brabo
+email: nmguilherme@hotmail.com
+--------------------------------------------------------------------------------------------------
+Nome: José Gabriel
+Sobrenome: Gouveia dos Santos Silva
+Celular: (83) 98166-4646
+Data de Nascimento: 15/02/1999
+Objetivo na área de TI: Adquirir conhecimento, crescer profissionalmente e buscar sempre o melhor de mim.
+email: bielsantos30@hotmail.com
+--------------------------------------------------------------------------------------------------
+Nome: Andreza
+Sobrenome: dos Santos Abrantes
+Celular: (83) 99620-0919
+Data de Nascimento: 24/02/1996
+Objetivo na área de TI: Me desenvolver o suficiente para liderar equipes em grandes projetos  
+email: andrezadossantosabrantes@gmail.com
+--------------------------------------------------------------------------------------------------
+Nome: Laurytha 
+Sobrenome: Carlos
+Celular: (83) 986933675
+Data de Nascimento: 18/01/1989
+Objetivo na área de TI: Analista BI
+email: annalaurytha.c@gmail.com
+--------------------------------------------------------------------------------------------------
+Nome: Andressa
+Sobrenome: dos Santos Abrantes
+Celular: (83) 996073914
+Data de Nascimento: 24/02/1996
+Objetivo na área de TI: Desenvolvedora
+email: andressasabrantes@gmail.com
+--------------------------------------------------------------------------------------------------
+Nome: Lucas 	
+Sobrenome: Alves Nunes da Costa
+Celular: 81989086952
+Data de Nascimento: 18/03/1994
+Objetivo na área de TI: Analista de Negócio
+email: lucasanc14@gmail.com
+--------------------------------------------------------------------------------------------------
+Nome: Rafael 
+Sobrenome: galvao
+Celular: (83)987900568
+Data de Nascimento: 22/07/1999
+Objetivo na área de TI: trabalhar todos os dias com programacao e resolver problemas
+email: rafaelgalvaolm.dev@gmail.com
+--------------------------------------------------------------------------------------------------
+Nome: Lívia
+Sobrenome: da Rocha Lima
+Celular: (083)99982-5868
+Data de Nascimento: 06/11/1980
+Objetivo na área de TI: Crescer profissionalmente na área de TI e ser reconhecida pelo meu trabalho.
+email: liv.rocha@outlook.com
+
+--------------------------------------------------------------------------------------------------
+
+Nome: Felipe
+Sobrenome: Pereira da Silva
+Celular: (83) 981049303
+Data de Nascimento: 06/08/1992
+Objetivo na área de TI: HAHAHAHAHAHAHA
+email: felipework10@gmail.com
+
+--------------------------------------------------------------------------------------------------
