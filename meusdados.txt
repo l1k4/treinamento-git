@@ -1,4 +1,4 @@
------------------------------------------------SMN-----------------------------------------------
+-----------------------------------------------AVALIAÇÃO-GIT-SMN-----------------------------------------------
 Lista de Estágiarios:
 
 Nome: Gustavo
@@ -57,20 +57,10 @@ Data de Nascimento: 22/07/1999
 Objetivo na área de TI: trabalhar todos os dias com programacao e resolver problemas
 email: rafaelgalvaolm.dev@gmail.com
 --------------------------------------------------------------------------------------------------
-Nome: Lívia
+Nome: Lívia 
 Sobrenome: da Rocha Lima
-Celular: (083)99982-5868
+Celular: (83)999825868
 Data de Nascimento: 06/11/1980
-Objetivo na área de TI: Crescer profissionalmente na área de TI e ser reconhecida pelo meu trabalho.
+Objetivo na área de TI: Trabalhar na área de TI e ser reconhecida profissionalmente
 email: liv.rocha@outlook.com
-
---------------------------------------------------------------------------------------------------
-
-Nome: Felipe
-Sobrenome: Pereira da Silva
-Celular: (83) 981049303
-Data de Nascimento: 06/08/1992
-Objetivo na área de TI: HAHAHAHAHAHAHA
-email: felipework10@gmail.com
-
 --------------------------------------------------------------------------------------------------
